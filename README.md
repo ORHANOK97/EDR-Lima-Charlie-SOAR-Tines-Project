@@ -3,13 +3,13 @@
 
 
 <h2>Description of tool</h2>
-Cisco Packet Analysis allow network administrators and engineers to simulate, monitor, and analyse network behaviour, aiding in the detection of issues, performance optimization, and security enforcement. By using Cisco Packet Tracer, users can create detailed network topologies, simulate various scenarios, and visualize data flow across the network. 
-<br />
+EDR provides real-time monitoring, detection, and response capabilities. SOAR platforms are designed to improve the efficiency of security operations by automating routine tasks, orchestrating workflows, and facilitating faster response to security incidents. Integrating and leveraging these powerful cybersecurity tools can create a robust and automated security operations environment. 
+<br /> 
 
 
 <h2>Project Objective</h2>
 
-- <b>Investigate Devices in a Wiring Closet</b> 
+- <b>Create a workflow</b> 
 - <b>Connect End Devices to Networking Devices</b>
 - <b>Install a Backup Router</b> 
 - <b>Configure a Hostname</b>
@@ -20,8 +20,8 @@ Cisco Packet Analysis allow network administrators and engineers to simulate, mo
 
 
 <p align="center">
-Step 1: I began by navigating the city (Seward) and the Branch office, I needed to investigate the Branch Office wiring closet <br/>
-<img src="https://i.imgur.com/9g4KVoi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Step 1: I have created a playbook workflow to help organise my thoughts and to see what steps the playbook should take to acomplish my objective <br/>
+<img src="https://imgur.com/gKGU1tl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Step 2: Connected PC_1 FastEthernet0 to an empty FastEthernet port on ALS2 switch<br/>
