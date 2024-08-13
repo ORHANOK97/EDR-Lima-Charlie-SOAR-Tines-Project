@@ -11,8 +11,8 @@ EDR provides real-time monitoring, detection, and response capabilities. SOAR pl
 
 - <b>Create a workflow</b> 
 - <b>Connect End Devices to Networking Devices</b>
-- <b>Install a Backup Router</b> 
-- <b>Configure a Hostname</b>
+- <b></b> 
+- <b></b>
 
 
 <h2>Program walk-through:</h2>
